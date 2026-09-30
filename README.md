@@ -58,3 +58,13 @@ O projeto contempla os principais requisitos por meio das seguintes implementaç
 - **Avaliação de classificação:** uso de matriz de confusão.
 - **Sistema inteligente:** classificação automática dos alertas por nível de criticidade.
 - **Visualização de dados:** gráficos de desempenho, transmissão e alertas.
+
+- ## Como executar o projeto
+
+1. Acesse o arquivo `SIGC_Comunicacao_Interplanetaria.ipynb`.
+2. Abra o notebook no Google Colab.
+3. Execute as células na ordem apresentada.
+4. Verifique os resultados das simulações, gráficos, métricas e classificações.
+5. Caso necessário, utilize a opção "Ambiente de execução > Executar tudo" no Google Colab.
+
+O notebook foi estruturado para apresentar todas as etapas do protótipo de forma sequencial e reproduzível.
