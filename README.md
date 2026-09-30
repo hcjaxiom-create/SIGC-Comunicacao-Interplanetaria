@@ -43,3 +43,18 @@ Desenvolver um protótipo capaz de organizar, priorizar, transmitir e analisar m
 ## Autor
 
 Hugo Camisotti Junior
+
+## Evidências da implementação
+
+O projeto contempla os principais requisitos por meio das seguintes implementações:
+
+- **Estruturas de dados:** listas, dicionários e DataFrame.
+- **Fila de prioridade:** uso do `heapq` para organização das mensagens.
+- **Busca eficiente:** implementação de estrutura Trie e busca por prefixo.
+- **Análise de dados:** uso de Pandas para organização do histórico.
+- **Comunicação numérica:** simulação de sinal binário sujeito a ruído.
+- **Detecção de erros:** comparação entre bits transmitidos e recebidos.
+- **Métricas de desempenho:** MAE, MSE, RMSE e R².
+- **Avaliação de classificação:** uso de matriz de confusão.
+- **Sistema inteligente:** classificação automática dos alertas por nível de criticidade.
+- **Visualização de dados:** gráficos de desempenho, transmissão e alertas.
